@@ -1,32 +1,44 @@
-# Olá, eu sou o Vinicius! ⸸ᶻ 𝗓 𐰁
-### 👨‍💻 Sobre Mim
-Sou um estudante apaixonado por tecnologia em constante busca por conhecimento. Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI MS**. Tenho muito interesse em entender a lógica por trás dos sistemas e gosto de aprender de forma prática. Minha jornada na programação está no início, mas estou muito focado em construir uma base sólida para, no futuro, criar soluções reais através do código. 
+👨‍💻 Olá, eu sou o Vinícius dos Santos
+
+🎓 Estudante de Tecnologia da Informação  
+📍 SENAI MS – Técnico em Desenvolvimento de Sistemas  
+
+Sobre mim  
+
+Me chamo Vinícius e estou iniciando minha jornada no mundo da tecnologia, uma área pela qual tenho grande interesse e curiosidade.  
+
+Sou uma pessoa muito prestativa, dedicada e sempre disposta a ajudar, características que levo tanto para o aprendizado quanto para o trabalho em equipe. Busco constantemente evoluir, aprendendo cada vez mais sobre o universo digital e suas possibilidades.  
+
+Atualmente, estou focado no desenvolvimento das minhas habilidades técnicas, construindo uma base sólida na área de TI. Tenho como objetivo crescer profissionalmente, adquirindo conhecimento e experiência para me tornar um desenvolvedor cada vez mais preparado.  
+
+✨ Estou sempre aberto a novos aprendizados e desafios.
+
+## 🚀 Tecnologias que estou aprendendo
+
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Banco de Dados](https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🚀 O que estou aprendendo e Cursos Realizados
-No SENAI MS, estou desenvolvendo minhas habilidades técnicas passo a passo. Meu foco e conhecimentos atuais incluem:
+## 📚 Cursos e Certificações
 
-* **Lógica de Programação** e estruturação de Algoritmos.
-* Noções de Desenvolvimento **Frontend** (HTML, CSS e JavaScript).
-* Modelagem e gerenciamento básico de **Bancos de Dados**.
-* **Microsoft Excel** (Curso também realizado no SENAI).
-* Introdução a Metodologias Ágeis para trabalho em equipe.
-
+- 📊 Excel Básico  
+- ♻️ Fundamentos e Ações da Economia Circular  
+- 🌍 Descarbonização e Economia Circular  
+- ⚡ Acelerando a Transição para Economia Circular  
+- 🔐 Segurança Cibernética  
+- 🛡️ Por dentro da Segurança Cibernética  
+- 🤖 Fundamentos da Inteligência Artificial  
+- 🧠 Ética na Inteligência Artificial  
+- 💻 Fluência Digital  
+- 🦺 Segurança no Trabalho  
+- ⚙️ Microsoft Power Platform  
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+## 🌐 Onde me encontrar
 
-*(Nota: Deixei apenas a estatística principal. Quando você começar a subir seus códigos, esse quadro vai atualizar automaticamente mostrando sua atividade!)*
-
+📧 Email: viniRibeiro.Antunes@gmail.com  
+📱 Instagram: (vini_dos_santos)
 ---
-
-### 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
----
-*“Um passo de cada vez, construindo o futuro linha por linha.”*
